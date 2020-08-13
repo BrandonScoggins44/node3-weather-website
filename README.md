@@ -20,3 +20,7 @@ attributes.</p>
 <p>http://api.weatherstack.com</p>
 <p>WeatherStack is used to retrieve the weather information for a provided location. We send the latitude and longitude details from the MapBox response, and then display the 
 weather details mentioned above to the user.</p>
+
+## Development server
+
+Run `npm dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
